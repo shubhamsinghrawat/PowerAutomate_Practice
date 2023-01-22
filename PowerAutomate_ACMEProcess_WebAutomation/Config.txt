@@ -1,0 +1,14 @@
+{
+	"ACMELogin_URL": "https://acme-test.uipath.com/",
+	"UserName": "YourMail@gmail.com",
+	"Password": "Password",
+	"WorkItem_URL": "https://acme-test.uipath.com/work-items",
+	"ItemToFilter": "WI4",
+	"Download_URL": "https://acme-test.uipath.com/reports/download",
+	"VendorFolder_Path": "C:\\Users\\hp\\Documents\\Power Automate\\VendorsData\\",
+	"UploadReport_URL": "https://acme-test.uipath.com/reports/upload",
+	"UpdateItem_URL": "https://acme-test.uipath.com/work-items/update/",
+	"inputFile_Path": "C:\\Users\\hp\\Documents\\Power Automate\\ExcelInput\\WorkItems.csv",
+	"ErrorScreenshot_Path":"C:\\Users\\hp\\Documents\\Power Automate\\Error_Screenshot\\"
+
+}
